@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baibianmoshe.GitHub.io</id>
     <title>百变魔社</title>
-    <updated>2020-07-04T15:31:13.872Z</updated>
+    <updated>2020-07-04T15:33:48.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baibianmoshe.GitHub.io"/>
     <link rel="self" href="https://baibianmoshe.GitHub.io/atom.xml"/>
@@ -12,10 +12,10 @@
     <rights>All rights reserved 2020, 百变魔社</rights>
     <entry>
         <title type="html"><![CDATA[Hello 百变魔社]]></title>
-        <id>https://baibianmoshe.GitHub.io/post/hello-gridea/</id>
-        <link href="https://baibianmoshe.GitHub.io/post/hello-gridea/">
+        <id>https://baibianmoshe.GitHub.io/post/hello-百变魔社/</id>
+        <link href="https://baibianmoshe.GitHub.io/post/hello-百变魔社/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-07-04T15:33:23.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>百变魔社</strong> ！<br>
 ✍️  <strong>百变魔社</strong> 它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
